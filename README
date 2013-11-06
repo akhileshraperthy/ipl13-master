@@ -1,0 +1,27 @@
+This is tabbed application, consisting of multiple stacks of windows associated with tabs in a tab group. 
+A starting point for tab-based application with multiple top-level windows. Requires Titanium Mobile SDK 1.8.0+.
+ 
+ Developed using titanium(basic)
+ -------------------------------
+ 
+- IPL 20-20 scoreboard
+- In understanding how the crossplatform works created an application that creates a scoreboard for one of the
+  international game by using Titanium appcelerator SDK.
+- This application is developed to run on ios device which later may extends to run on android.
+- application Objectives : this application consists of 5 screens - Home, Schedule, Feeds, Points table and Records.
+
+	HOME : displays list of all the teams in table view upon clicking of any of the team, displays list of players.
+	
+	SCHEDULE: displays the time,date and venue of the match on that particular day and between the teams.This also
+	achieves dynamic adding of unscheduled matches which reads from one of my own server.
+
+	FEEDS: this reads the latest RSS feeds of score cards of the current matches from one of the source.(crickbuzz)
+	upon clicking of the score card open up a web view which displays the detailed information from that particular website.
+	
+	POINTS: This screen displays list of points that the team achieved by reading from JSON file.
+	which has a refresh button to reload the content of the page.
+
+	RECORDS : this screen consists of records of particulars like Most Runs, Most Wickets, Most Sixes, Most fours.
+	upon clicking on one of them leads to a detailed informatiom (which is a JSON file from the server)
+
+
