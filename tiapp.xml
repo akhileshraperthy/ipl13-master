@@ -6,13 +6,13 @@
     <property name="acs-oauth-secret-development" type="string">JNA63C6xOzVmElWYZaxR7OTF8fSz7iU2</property>
     <property name="acs-oauth-key-development" type="string">peLhSbT5VwwhPJdwfwjZxhtu01YCF7oe</property>
     <property name="acs-api-key-development" type="string">u17MbwWv0v3wYLW3xXJ1zZNlRkgN28Mb</property>
-    <id>com.rnagella.ipl13</id>
+    <id>com.araperth.ipl13</id>
     <name>ipl13</name>
     <version>1.0</version>
-    <publisher>Ranjith</publisher>
-    <url>http://www.cs.odu.edu/~rnagella</url>
+    <publisher>Akhilesh</publisher>
+    <url>http://www.cs.odu.edu/~araperth</url>
     <description>not specified</description>
-    <copyright>2013 by Ranjith</copyright>
+    <copyright>2013 by Akhilesh</copyright>
     <icon>appicon.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
